@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Menugry.unity
+    guid: cd3048b99c8910541b3f61457507dccd
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Glowna_scena_gry.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu_gry.unity
+    guid: de22a9b824c235b4fb6aaf629b17c0d6
   m_configObjects: {}

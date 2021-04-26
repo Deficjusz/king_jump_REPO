@@ -7,6 +7,6 @@ public class zarzadzaniescenami : MonoBehaviour
 {
     public void Zmienscene()
     {
-        SceneManager.LoadScene(1);       
+        SceneManager.LoadScene("Glowna_scena_gry");       
     }
 }
